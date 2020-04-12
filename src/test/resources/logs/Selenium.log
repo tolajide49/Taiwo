@@ -1,0 +1,7 @@
+11:55:54,400 DEBUG devpinoyLogger:59 - Config file loaded !!!
+11:55:54,403 DEBUG devpinoyLogger:73 - Config file loaded !!!
+11:55:58,029 DEBUG devpinoyLogger:104 - Chrome Launched !!!
+11:56:04,844 DEBUG devpinoyLogger:112 - Navigated to : https://staging-indigo.summitech.ng/login
+11:56:08,598 DEBUG devpinoyLogger:19 - Log in successfully executed
+11:56:13,500 DEBUG devpinoyLogger:32 - Log in successfully executed
+11:56:14,188 DEBUG devpinoyLogger:220 - Test Execution Completed
